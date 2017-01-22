@@ -1,5 +1,4 @@
 # MazeGenerator
-Maze Generation Algorithm
 
 Maze Generation algorithm using depth-first search and recursive backtracking.
 
